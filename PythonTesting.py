@@ -1,2 +1,4 @@
 def print_text();
-    print("Printing");
+    print("Printing!");
+def print_othertext
+    print("More printing!")
